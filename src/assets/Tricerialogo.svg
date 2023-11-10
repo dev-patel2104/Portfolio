@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156.754" height="50" viewBox="0 0 156.754 50">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_5910" d="M174.758 852.459l1.048 1.82-4.494 2.118.114 25.253a1.679 1.679 0 0 1-.59 1.225 1.934 1.934 0 0 1-2.486-.544L153.9 866.54l1.585-1.535 13.4 14.373V855.71a.991.991 0 0 1 .236-.773.9.9 0 0 1 .393-.243z" class="cls-1" transform="translate(-153.898 -852.459)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_5912" fill="#ff6e0f" stroke="#ff710f" d="M174.758 852.459l1.048 1.82-4.494 2.118.114 25.253a1.679 1.679 0 0 1-.59 1.225 1.934 1.934 0 0 1-2.486-.544L153.9 866.54l1.585-1.535 13.4 14.373V855.71a.991.991 0 0 1 .236-.773.9.9 0 0 1 .393-.243z" clip-rule="evenodd" transform="translate(-153.898 -852.459)"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectangle_3571" d="M0 0H312.644V220.93H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#ff6e0f;stroke:#ff710f}.cls-9{fill:#38b5aa}
+        </style>
+    </defs>
+    <g id="Group_14315" transform="translate(-105.246 -15)">
+        <g id="Group_14313" transform="translate(-33.535 -804.685)">
+            <g id="Group_14312" transform="translate(138.781 829.584)">
+                <g id="Group_14316" transform="translate(-1 -1)">
+                    <g id="Group_14311" transform="translate(8.714 5.24)">
+                        <g id="Group_14308">
+                            <path id="Path_5911" fill="#ff6e0f" fill-rule="evenodd" stroke="#ff710f" d="M174.758 852.459l1.048 1.82-4.494 2.118.114 25.253a1.679 1.679 0 0 1-.59 1.225 1.934 1.934 0 0 1-2.486-.544L153.9 866.54l1.585-1.535 13.4 14.373V855.71a.991.991 0 0 1 .236-.773.9.9 0 0 1 .393-.243z" transform="translate(-153.898 -852.459)"/>
+                            <g id="Group_14307" clip-path="url(#clip-path-2)">
+                                <g id="Group_14306" transform="translate(-71.292 -94.313)">
+                                    <path id="Rectangle_3569" d="M0 0H312.644V220.93H0z" class="cls-1" transform="translate(0)"/>
+                                    <g id="Group_14305" clip-path="url(#clip-path-3)" transform="translate(0)">
+                                        <path id="Rectangle_3570" d="M0 0H25.62V34.532H0z" class="cls-1" transform="translate(69.435 92.457)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <circle id="Ellipse_164" cx="4.258" cy="4.258" r="4.258" fill="none" stroke="#ff6e0f" stroke-miterlimit="10" stroke-width="2px" transform="translate(2 10.825)"/>
+                    <path id="Path_5916" fill="none" stroke="#ff6e0f" stroke-width="2px" d="M4.258 0A4.258 4.258 0 1 1 0 4.258 4.258 4.258 0 0 1 4.258 0z" transform="translate(29.836)"/>
+                </g>
+            </g>
+            <rect id="Rectangle_3575" width="45" height="4" class="cls-9" rx="2" transform="translate(157.535 822.685) rotate(90)"/>
+            <rect id="Rectangle_3573" width="32" height="4" class="cls-9" rx="2" transform="translate(139.535 822.685)"/>
+        </g>
+        <text id="TRICERIA_SOLUTIONS" fill="#333" font-family="Montserrat-Light, Montserrat" font-size="24px" font-weight="300" transform="translate(149 39)">
+            <tspan x="0" y="0">TRICERIA</tspan><tspan font-family="Montserrat-SemiBold, Montserrat" font-size="19px" font-weight="600"><tspan x="0" y="20">SOLUTIONS</tspan></tspan>
+        </text>
+    </g>
+</svg>
