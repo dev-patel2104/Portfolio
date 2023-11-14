@@ -24,9 +24,9 @@ const Skills = () => {
                                     <div key={subIndex} className="text-base font-normal bg-custombackground text-primary-light border border-primary-light rounded-lg p-2 flex items-center gap-2">
                                         <img src={item.image} alt={item.name} className="w-6 h-6" />
                                         <div className='text-pampas'>
-                                        {item.name}
+                                            {item.name}
                                         </div>
-                                        
+
                                     </div>
                                 ))}
                             </div>

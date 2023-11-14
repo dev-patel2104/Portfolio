@@ -1,7 +1,7 @@
 import React from 'react';
+import details from '../assets/details.json';
 import myImage from '../assets/myPhoto.jpg';
 import Skill from './skills.js';
-import details from '../assets/details.json';
 
 function aboutMe() {
 

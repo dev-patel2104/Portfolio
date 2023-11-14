@@ -1,7 +1,7 @@
 import React from 'react';
+import details from '../assets/details.json';
 import githubLogo from '../assets/githubLogo.svg';
 import newIcon from '../assets/newIcon.svg';
-import details from '../assets/details.json';
 
 function education() {
 

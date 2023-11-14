@@ -1,7 +1,6 @@
 import React from 'react';
-import profileImage from '../assets/profile.svg';
-import AboutMe from './about-me.js';
 import details from '../assets/details.json';
+import AboutMe from './about-me.js';
 
 function about() {
 
@@ -22,7 +21,7 @@ function about() {
                         </a>
                     </div>
                     <div className='flex justify-center items-center'>
-                        <img src={profileImage} alt = "some profile" className='flex-2 w-1/2 h-1/2'></img>
+                        <img src={myIntro.profile_image} alt="some profile" className='flex-2 w-1/2 h-1/2'></img>
                     </div>
                 </div>
             </div>
