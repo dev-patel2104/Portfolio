@@ -1,7 +1,9 @@
 import React from 'react';
-import { skills } from './constants';
+import details from '../assets/details.json';
 
 const Skills = () => {
+
+    const skills = details.skills;
     return (
         <div id="skills" className="flex flex-col justify-center items-center relative z-10 pb-10 pt-36">
             <div className="flex flex-col justify-between items-center flex-wrap w-full max-w-5xl gap-12">

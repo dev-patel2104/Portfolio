@@ -1,58 +1,11 @@
 import React from 'react';
 import githubLogo from '../assets/githubLogo.svg';
 import newIcon from '../assets/newIcon.svg';
-
-import 'react-vertical-timeline-component/style.min.css';
+import details from '../assets/details.json';
 
 function education() {
 
-    const projects = [
-        {
-            "gitLink": "https://github.com/dev-patel2104/TuneHub",
-            "deployLink": "https://tune-hub.netlify.app/",
-            "projectTitle": "TuneHub: IMDb for music",
-            "description": "TuneHub is an immersive music platform that seamlessly integrates with Spotify, offering users an interactive space to discover, curate favorites, and engage with a vibrant community."
-        },
-        {
-            "gitLink": "https://github.com/dev-patel2104/Vendor_Valley",
-            "deployLink": "https://release--glowing-ganache-35b6af.netlify.app/",
-            "projectTitle": "Vendor Valley",
-            "description": "Vendor Valley, a web application, revolutionizes vendor selection by seamlessly connecting customers with vendors. Deployment is done using Netlify for frontend and Render for backend."
-
-        },
-        {
-            "gitLink": "https://github.com/dev-patel2104/ServerlessSDP8",
-            "deployLink": "https://main--serverless-sdp8-production.netlify.app/",
-            "projectTitle": "FoodVaganza",
-            "description": "Developed customer, partner and admin apps as a part of table reservation app tailored for restaurants in Halifax, Nova Scotia. The project is entirely built on a serverless architecture."
-
-        },
-        {
-            "gitLink": "https://github.com/dev-patel2104/Portfolio",
-            "deployLink": "https://release--glowing-ganache-35b6af.netlify.app/",
-            "projectTitle": "Portfolio",
-            "description": "(This) A clean and editable portfolio website with a simplistic design."
-
-        },
-        {
-            "gitLink": "https://github.com/dev-patel2104/Glitch_Garden_Repo",
-            "deployLink": "https://drive.google.com/file/d/1P41k4eDyAlJ5tUwVKBqihDxohMyFB8-Q/view?usp=drive_link",
-            "projectTitle": "Glitch Garden Replica",
-            "description": "Crafted from scratch, a functional replica of the beloved Glitch Garden game offers a customizable single level with adjustable difficulty settings."
-        },
-        {
-            "gitLink": "https://github.com/dev-patel2104/platformer_repo",
-            "deployLink": "https://drive.google.com/file/d/17nmEpaE0ITZs5XF8sHZRjKC-A7N3Ku5E/view?usp=drive_link",
-            "projectTitle": "Platformer 2D",
-            "description": "An engaging 2D platformer game, featuring diverse levels adorned with traps, enemies, and power-ups. Leveraged Unity tilemap for seamless level creation."
-        },
-        {
-            "gitLink": "https://github.com/dev-patel2104/project_Boost_repo",
-            "deployLink": "https://drive.google.com/file/d/1fU3CDOTNMeCbbDSuQDfuQVB4_aIbADVR/view?usp=drive_link",
-            "projectTitle": "Project boost",
-            "description": "Dive into an immersive rocket steering game where players navigate through dynamic levels, overcoming a myriad of obstacles that test precision and skill."
-        }
-    ];
+    const projects = details.projects;
 
 
     return (
