@@ -10,7 +10,8 @@ module.exports = {
         carrara: 'rgb(241,242,227)',
         navbar: 'rgb(12,11,13)',
         darkSkin: 'rgb(130, 120, 110)',
-        pampas: 'rgb(234,228,220)'
+        pampas: 'rgb(234,228,220)',
+        highlight: 'rgb(56, 110, 128)'
       },
     },
   },
