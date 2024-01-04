@@ -10,7 +10,7 @@ function education() {
 
     return (
 
-        <div className="flex-col style={{ height: '92vh' }} bg-custombackground ">
+        <div className="flex-col bg-custombackground " style={{ height: '100%', minHeight: '92vh' }} >
             <div className='flex w-full justify-center mb-8 pt-16'>
                 <h1 className="text-5xl font-bold text-pampas "> Projects </h1>
             </div>
@@ -34,7 +34,7 @@ function education() {
                                                 {project.gitLink && (
                                                     <button
                                                         onClick={() => window.open(project.gitLink, '_blank')}
-                                                        className="cursor-pointer transform hover:scale-110 transition-transform"
+                                                        className="cursor-pointer transform hover:scale-125 transition-transform"
                                                     >
                                                         <img src={githubLogo} alt={`github logo`} className="" />
                                                     </button>
@@ -44,7 +44,7 @@ function education() {
                                                 {project.deployLink && (
                                                     <button
                                                         onClick={() => window.open(project.deployLink, '_blank')}
-                                                        className="cursor-pointer pr-4 transform hover:scale-110 transition-transform"
+                                                        className="cursor-pointer pr-4 transform hover:scale-125 transition-transform"
                                                     >
                                                         <img src={newIcon} alt={`open in new tab icon`} className="" />
                                                     </button>
@@ -52,7 +52,7 @@ function education() {
                                             </div>
                                         </div>
 
-                                        <div className='flex justify-center p-4'>
+                                        <div className='flex  w-full p-4'>
                                             {project.description && <h2 className='text-custombackground'>{project.description}</h2>}
                                         </div>
                                         {/* <div className=' bg-darkSkin p-4 rounded-b-md w-full'>

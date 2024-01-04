@@ -234,6 +234,12 @@
             "description": "Developed customer, partner and admin apps as a part of table reservation app tailored for restaurants in Halifax, Nova Scotia. The project is entirely built on a serverless architecture."
         },
         {
+            "gitLink": "https://github.com/dev-patel2104/Grocery-Tracker",
+            "deployLink": "https://groceryfy-angular.netlify.app/",
+            "projectTitle": "Groceryfy",
+            "description": "A flexible grocery tracking app featuring both serverless and serverful backend structures, along with a clean front-end design. Demonstrated CloudFormation deployment, and implemented an advanced feature for email notifications a day before food expiration"
+        },
+        {
             "gitLink": "https://github.com/dev-patel2104/Portfolio",
             "deployLink": "https://release--glowing-ganache-35b6af.netlify.app/",
             "projectTitle": "Portfolio",
