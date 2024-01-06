@@ -237,7 +237,7 @@
             "gitLink": "https://github.com/dev-patel2104/Grocery-Tracker",
             "deployLink": "https://groceryfy-angular.netlify.app/",
             "projectTitle": "Groceryfy",
-            "description": "A flexible grocery tracking app featuring both serverless and serverful backend structures, along with a clean front-end design. Demonstrated CloudFormation deployment, and implemented an advanced feature for email notifications a day before food expiration"
+            "description": "A flexible grocery tracking app featuring both serverless and serverful backend structures, along with a clean front-end design and email notifications for items reaching their expiration"
         },
         {
             "gitLink": "https://github.com/dev-patel2104/Portfolio",
