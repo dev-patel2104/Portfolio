@@ -204,11 +204,8 @@
             "title": "Data Analytics Developer",
             "company": "The Shaw Group Limited",
             "points": [
-                "Engineered interactive dashboards to track budgets vs. actual spending across divisions, enabling data-driven decisions.",
-                "Integrated Office365 API to automate financial statements and rent rolls retrieval, processing, and balance calculation.",
-                "Created 15+ ETL pipelines, enhancing data workflows while developing automated scripts for validation.",
-                "Streamlined report creation by 40% by establishing an analytics server with multiple databases for faster visualization.",
-                "Prototyped a mapping dashboard with an interactive map view, enabling drill-down into specific development areas."
+                "Automated financial data processing and report generation using Python, Office365 API, and SQL, cutting manual work by 40%.",
+                "Designed and maintained databases, built ETL pipelines, and developed analytics dashboards to streamline workflows and enable data-driven decisions."
             ]
         },
         {
@@ -217,9 +214,8 @@
             "title": "Software Developer Intern",
             "company": "Showmates",
             "points": [
-                "Played a crucial role in all phases of web application development, contributing significantly to a 50% boost in user engagement.",
-                "Incorporated 5+ new features seamlessly while adhering to web development best practices.",
-                "Conducted comprehensive testing and debugging, resolving majority of software defects to deliver a reliable web application."
+                "Developed and optimized web application features, improving user engagement by 50%.",
+                "Performed end-to-end testing and debugging to ensure smooth, high-quality deployments."
             ]
         },
         {
@@ -227,9 +223,8 @@
             "title": "Software Developer",
             "company": "Lotus Infra",
             "points": [
-                "Converted 7+ VBA macros into React/Node.js web apps as part of 10+ internal tools improving productivity.",
-                "Integrated 2+ third-party APIs and internal REST services for project tracking and HR workflows.",
-                "Created 3 web portals for scheduling, document sharing, and vendor communication used by 50+ staff."
+                "Converted VBA tools into React/Node.js web apps, enhancing internal productivity.",
+                "Integrated APIs and built portals to automate workflows for 50+ staff."
             ]
         },
         {
@@ -238,9 +233,8 @@
             "title": "Game Developer Intern",
             "company": "Triceria Solutions",
             "points": [
-                "Prototyped 2+ 3D games and developed a multiplayer mobile game with puzzle-solving mechanics and interactive features.",
-                "Designed innovative mechanics like a rope system and power-ups, achieving a 40% boost in graphics and performance.",
-                "Conducted automated and manual testing across 20+ iterations, ensuring polished gameplay and near 100% code coverage."
+                "Developed multiplayer mobile and 3D puzzle games with innovative mechanics.",
+                "Boosted performance by 40% through optimized graphics and iterative testing."
             ]
         }
     ],

@@ -9,10 +9,10 @@ function work() {
     return (
         <div className="flex-col bg-custombackground  h-auto">
             <div className='flex w-full justify-center pt-16'>
-                <h1 className="text-5xl font-bold text-gray-200 "> Experience </h1>
+                <h1 className="text-4xl font-bold text-gray-200 "> Experience </h1>
             </div>
             <div className='flex w-full justify-center mb-16 pt-6'>
-                <h1 className="text-2xl font-semibold text-gray-200 "> My work experience as a software engineer and working on different companies and projects. </h1>
+                {/* <h1 className="text-2xl font-semibold text-gray-200 "> Professional Experience Across Companies and Projects </h1> */}
             </div>
             <VerticalTimeline>
                 {workInfo.map((item, index) => (
